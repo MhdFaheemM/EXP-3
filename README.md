@@ -47,13 +47,16 @@ To control the status of the given lamp by using two-way switches.
 
 ### Circuit diagram
 
-*[ Insert the direct connection circuit diagram here ]*
+<img width="1080" height="608" alt="893330450_2202918357308193_6270441507613490445_n" src="https://github.com/user-attachments/assets/c89d3eb2-0329-461e-8bad-7fe86f5e6430" />
+<img width="1080" height="608" alt="888557527_1646483450303866_4308767926023914006_n" src="https://github.com/user-attachments/assets/64fec39d-76bf-4589-ae34-730056816f4b" />
+
 
 **Figure 1:** Staircase wiring – direct connection
 
 ### Tabulation 1: Truth table – direct connection
 
-*Enter the switch position as UP / DOWN (or 1 / 0) and the lamp status as ON / OFF for each combination.*
+<img width="900" height="1600" alt="895307697_1680560103779181_9212860726611463137_n" src="https://github.com/user-attachments/assets/ecc5464c-162f-4624-86d4-67e7378f915f" />
+
 
 | S. No. | Switch S1 position | Switch S2 position | Lamp status (ON / OFF) |
 |:---:|:---:|:---:|:---:|
@@ -66,13 +69,17 @@ To control the status of the given lamp by using two-way switches.
 
 ### Circuit diagram
 
-*[ Insert the cross connection circuit diagram here ]*
+<img width="1080" height="608" alt="896895948_1685679316254032_5430925499099813514_n" src="https://github.com/user-attachments/assets/5511ac6c-98c8-4e75-92ad-c34d20ccc0be" />
+<img width="1080" height="608" alt="892843601_1453982986875287_5216622920185823523_n" src="https://github.com/user-attachments/assets/1223793c-df31-4440-8ba8-13f7d98ee699" />
+
+
 
 **Figure 2:** Staircase wiring – cross connection
 
 ### Tabulation 2: Truth table – cross connection
 
-*Enter the switch position as UP / DOWN (or 1 / 0) and the lamp status as ON / OFF for each combination.*
+<img width="900" height="1600" alt="898162954_2455781388158776_6528968482179882799_n" src="https://github.com/user-attachments/assets/3f42d4eb-5ef3-4522-b6dc-e899c7ce3a8b" />
+
 
 | S. No. | Switch S1 position | Switch S2 position | Lamp status (ON / OFF) |
 |:---:|:---:|:---:|:---:|
@@ -87,13 +94,15 @@ Build both the direct and cross connection circuits in Proteus using an AC sourc
 
 ### A. Direct connection – simulation
 
-*[ Paste the Proteus direct connection simulation screenshot here ]*
+<img width="1080" height="608" alt="893330450_2202918357308193_6270441507613490445_n" src="https://github.com/user-attachments/assets/c89d3eb2-0329-461e-8bad-7fe86f5e6430" />
+<img width="1080" height="608" alt="888557527_1646483450303866_4308767926023914006_n" src="https://github.com/user-attachments/assets/64fec39d-76bf-4589-ae34-730056816f4b" />
 
 **Figure 3:** Proteus simulation – direct connection
 
 ### B. Cross connection – simulation
 
-*[ Paste the Proteus cross connection simulation screenshot here ]*
+<img width="1080" height="608" alt="896895948_1685679316254032_5430925499099813514_n" src="https://github.com/user-attachments/assets/5511ac6c-98c8-4e75-92ad-c34d20ccc0be" />
+<img width="1080" height="608" alt="892843601_1453982986875287_5216622920185823523_n" src="https://github.com/user-attachments/assets/1223793c-df31-4440-8ba8-13f7d98ee699" />
 
 **Figure 4:** Proteus simulation – cross connection
 
