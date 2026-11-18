@@ -43,7 +43,7 @@ To control the status of the given lamp by using two-way switches.
 
 ### Tabulation 1: Truth table – direct connection
 
-<img width="900" height="1600" alt="895307697_1680560103779181_9212860726611463137_n" src="https://github.com/user-attachments/assets/ecc5464c-162f-4624-86d4-67e7378f915f" />
+<img width="1600" height="900" alt="895307697_1680560103779181_9212860726611463137_n" src="https://github.com/user-attachments/assets/1ddecbd3-d6d4-491d-9d7e-23ec729e2875" />
 
 ## B. CROSS CONNECTION
 
@@ -53,8 +53,7 @@ To control the status of the given lamp by using two-way switches.
 
 ### Tabulation 2: Truth table – cross connection
 
-<img width="900" height="1600" alt="898162954_2455781388158776_6528968482179882799_n" src="https://github.com/user-attachments/assets/3f42d4eb-5ef3-4522-b6dc-e899c7ce3a8b" />
-
+<img width="1600" height="900" alt="898162954_2455781388158776_6528968482179882799_n (2)" src="https://github.com/user-attachments/assets/79fddb1a-177e-4a83-81d4-8c53d0f701d8" />
 
 ## RESULT
 
